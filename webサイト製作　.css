@@ -163,6 +163,8 @@ article section{
 footer {
     background-color: #a20916;
     color: #ffffff;
-    text-align: center;
-    padding: 14px 10px 20px;
+    margin-inline: auto;
+    max-inline-size: max-content;
+    white-space: nowrap;
+    padding: 5px 650px 5px;
 }
